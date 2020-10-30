@@ -35,7 +35,7 @@ body {
 .video-box1 .play-btn1:before, .video-box1 .play-btn1:after {
     content:"";
     position:absolute;
-    border:2px solid #ccc;
+    
     border-radius:50%;
     left:20px;
     right:-20px;
