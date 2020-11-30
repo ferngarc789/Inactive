@@ -1,6 +1,6 @@
 # PassionersPodcast
 
-<img src ="imag/logo.jpg" height="100">
+<img src ="imag/logo.jpg" width="100">
 
 ---
 ## Mission statement
