@@ -9,4 +9,7 @@ Our goal is to shine light on the pioneers of today and those who dare to lead t
 Shining light on those leading the way.
 
 ---
-
+## Meet Our Team 
+**Co-hosts:** Jennes Kang, Mike Garcia, Fernando Garcia 
+**Instagram manager:** Claire Helms 
+**Illustrator:** Lana Hadziosmanovic 
