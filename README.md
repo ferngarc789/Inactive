@@ -10,6 +10,8 @@ Shining light on those leading the way.
 
 ---
 ## Meet Our Team 
-**Co-hosts:** Jennes Kang, Mike Garcia, Fernando Garcia ...
-**Instagram manager:** Claire Helms ...
+**Co-hosts:** Jennes Kang, Mike Garcia, Fernando Garcia 
+
+**Instagram manager:** Claire Helms
+
 **Illustrator:** Lana Hadziosmanovic 
