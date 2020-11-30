@@ -8,6 +8,12 @@ Our goal is to shine light on the pioneers of today and those who dare to lead t
 ## Slogan
 Shining light on those leading the way.
 
+## Website
+coming soon!
+
+## Instagram
+https://www.instagram.com/passionerspodcast/ 
+
 ---
 ## Meet Our Team 
 **Co-hosts:** Jennes Kang, Mike Garcia, Fernando Garcia 
