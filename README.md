@@ -1,4 +1,4 @@
-# PassionersPodcast
+# Passioners Podcast
 
 <img src ="imag/logo.jpg" width="300">
 
