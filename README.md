@@ -5,3 +5,5 @@ Our goal is to shine light on the pioneers of today and those who dare to lead t
 
 ##Slogan
 Shining light on those leading the way.
+
+making changes
