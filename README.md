@@ -18,6 +18,6 @@ https://www.instagram.com/passionerspodcast/
 ## Meet Our Team 
 **Co-hosts:** Jennes Kang, Mike Garcia, Fernando Garcia 
 
-**Instagram manager:** Claire Helms
+**Social Media Director:** Claire Helms
 
 **Illustrator:** Lana Hadziosmanovic 
