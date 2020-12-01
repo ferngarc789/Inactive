@@ -4,5 +4,46 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   </head>
-  <body></body>
+  <body>
+    <form action="">
+      <!-- name -->
+      <label for="name">Name:</label>
+      <input type="text" placeholder="first & last name" name="name" />
+      <br />
+      <br />
+      <!-- e-mail -->
+      <label for="email">E-mail:</label>
+      <input type="email" placeholder="e-mail address" name="email" />
+      <br />
+      <!-- description -->
+      <p>Description:</p>
+      <textarea
+        name="description"
+        id=""
+        cols="30"
+        rows="10"
+        placeholder="We are happy you are reaching out to us"
+      ></textarea>
+      <br />
+      <br />
+      <b>Do you have a specific person you wish to contact?</b>
+      <br />
+      <br />
+      <input type="checkbox" name="person" checked value="general" />General
+      (sends messsage to all)
+      <br />
+      <input type="checkbox" name="person" value="Jenn" />Jenn
+      <br />
+      <input type="checkbox" name="person" value="Mike" />Mike
+      <br />
+      <input type="checkbox" name="person" value="Fernando" />Fernando
+      <br />
+      <input type="checkbox" name="person" value="Claire" />Claire
+      <br />
+      <input type="checkbox" name="person" value="Lana" />Lana
+      <br />
+      <br />
+      <input type="submit" value="submit" />
+    </form>
+  </body>
 </html>
