@@ -11,6 +11,9 @@ Shining light on those leading the way.
 ## Website
 coming soon!
 
+## E-mail
+passionerspodcast@gmail.com
+
 ## Instagram
 https://www.instagram.com/passionerspodcast/ 
 
